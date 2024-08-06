@@ -27,7 +27,7 @@ Some other stuffs that I know:
 <br/>
 <br/>
 <div style="display: flex;">
-<img src="https://images.ctfassets.net/23aumh6u8s0i/4iM5kVfghB6lIZpWzwEs6e/c369b375e74f84945dbb8a860ad6b9ed/blazor-logo" height="50" width="50"/>
+<img src="https://seeklogo.com/images/B/blazor-logo-28A9304DC6-seeklogo.com.png" height="50" width="50"/>
 <img src="https://i.pinimg.com/originals/51/45/df/5145df1033fa60f13b3b7125d2b69554.jpg" height="50" width="50"/>
 </div>
 
