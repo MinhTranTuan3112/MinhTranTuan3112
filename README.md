@@ -20,6 +20,7 @@ I’m <strong>@MinhTranTuan3112</strong> or you can call me Minh, just a normal 
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" height="50" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/180px-CSS3_logo.svg.png" height="50" width="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="50" width="50"/>
   
 </div>
 
