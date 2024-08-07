@@ -13,7 +13,7 @@ I’m <strong>@MinhTranTuan3112</strong> or you can call me Minh, just a normal 
 <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" height="50" width="50"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height="50" width="50"/>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="50" width="50"/>
-<img src="https://viettelidc.com.vn//uploadimage/Root/root/06-01-toan-tap-ve-sql-server-cho-nguoi-moi-bat-dau.jpg" height="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" height="50" width="50"/>
 </div>
 <br/>
 <div style="display: flex;">
