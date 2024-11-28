@@ -12,6 +12,7 @@ I’m <strong>@MinhTranTuan3112</strong> or you can call me Minh, just a normal 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" height="50" width="50"/>
 <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" height="50" width="50"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height="50" width="50"/>
+<img src="https://remix.run/_brand/remix-letter-glowing.png" height="50" width="50"/>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="50" width="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" height="50" width="50"/>
 </div>
@@ -21,7 +22,6 @@ I’m <strong>@MinhTranTuan3112</strong> or you can call me Minh, just a normal 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/180px-CSS3_logo.svg.png" height="50" width="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="50" width="50"/>
-  
 </div>
 
 Some other stuffs that I know:
