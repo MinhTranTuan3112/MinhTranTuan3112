@@ -15,6 +15,7 @@ I’m <strong>@MinhTranTuan3112</strong> or you can call me Minh, just a normal 
 <img src="https://remix.run/_brand/remix-letter-glowing.png" height="50" width="50"/>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="50" width="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" height="50" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="50" width="50"/>
 </div>
 <br/>
 <div style="display: flex;">
